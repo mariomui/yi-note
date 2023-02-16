@@ -11,7 +11,8 @@
     "build:landing": "yarn workspace @yi-note/landing build",
     "start:playground": "yarn workspace @yi-note/playground start",
     "start:ext": "yarn workspace @yi-note/extension start:dev",
-    "build:ext": "yarn workspace @yi-note/extension build"
+    "build:ext": "yarn workspace @yi-note/extension build",
+    "for_git_ppl:step1": "git config --local commit.template 'git-commit-template/contributor'"
   },
   "repository": {
     "type": "git",

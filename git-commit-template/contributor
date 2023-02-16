@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+
+# Git template
+#
+# <type>: Short Description of Commit
+# <BLANKLINE>
+#  More detailed description of commit
+# <BLANKLINE>
+#(Optional) Resolves: <Issue #>
+
+
+# Types include:
+
+# - `feat` when creating a new feature
+# - `fix` when fixing a bug
+# - `test` when adding tests
+# - `refactor` when improving the format/structure of the code
+# - `docs` when writing docs
+# - `release` when pushing a new release
+# - `chore` others (ex: upgrading/downgrading dependencies)
+
+# ### Example
+
+#     docs: Updates CONTRIBUTING.md
+
+#     Updates Contributing.md with new template
+
+#     Resolves: #1234
